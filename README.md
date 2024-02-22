@@ -1,5 +1,6 @@
 ### Hola, a todos 👋
 ![perfil](https://github.com/FReyesft/Freyesft/assets/97996503/d7dd6eff-9bdf-4b60-8f9a-6b4bda6d48f6)
+# Contrubuciones
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freyesft/freyesft/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freyesft/freyesft/output/github-contribution-grid-snake.svg">
